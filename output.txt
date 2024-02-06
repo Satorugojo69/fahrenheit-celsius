@@ -1,0 +1,6 @@
+# conversion of celcius to fahrenhit
+50c
+122.0F
+# conversion of celcius to fernhit
+113f
+45.0c
